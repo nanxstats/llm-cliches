@@ -1,5 +1,11 @@
+ensure
 delve
+discover
+dive
 elevate
+embark
+embrace
 foster
 harness
+streamline
 unlock
