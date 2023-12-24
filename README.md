@@ -1,5 +1,7 @@
 # llm-cliches
 
+![banner](banner.png)
+
 A collection of commonly used clichés and phrases in Large Language Models (LLMs) outputs.
 
 - [adjectives.txt](adjectives.txt) - Words that describe or modify nouns.
