@@ -1,6 +1,8 @@
 captivating
 crucial
 bustling
+distinguished
+esteemed
 exquisite
 formidable
 holistic
@@ -12,6 +14,7 @@ paramount
 pivotal
 predominant
 profound
+prominent
 quintessential
 seamless
 tangible
